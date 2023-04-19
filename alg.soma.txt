@@ -1,0 +1,17 @@
+algoritmo: soma
+
+declaração: 
+numero1: decimal;
+numero2: decimal;
+resultado: decimal;
+op+: texto;
+
+inicio
+escreva ("digite um numero");
+leia (numero1);
+escreva ("insira operacao");
+leia (op+)
+escreva ("digite outro numero");
+leia (numero2);
+escreva (resultado)
+fim
